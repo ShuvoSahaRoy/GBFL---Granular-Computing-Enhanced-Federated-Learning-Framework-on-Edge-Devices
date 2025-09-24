@@ -36,5 +36,5 @@ if 'fedavg_lr_gb' or 'fedprox_lr_gb' or 'fedavg_NN_gb' or 'fedprox_NN_gb' in agg
 else:   
     make_gb = False
 
-save = 0
-save_log = 0
+save = 1
+save_log = 1

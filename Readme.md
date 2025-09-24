@@ -14,7 +14,7 @@
 Set up the environment, check the config file, change values according to your preference, and then run the main file. I have used Python v3.11
 
 ```bash
-python -m vevn GBFL
+python -m venv GBFL
 pip install -r requirements.txt
 ```
 
