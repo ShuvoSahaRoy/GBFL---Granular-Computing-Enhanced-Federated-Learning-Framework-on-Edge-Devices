@@ -3,7 +3,7 @@
 
 **Abstract**: Federated Learning (FL) enables collaborative model training across distributed edge clients such as mobile or IoT devices by sharing model updates rather than raw data, preserving privacy while supporting scalable learning. However, large datasets increase computational costs and are time-consuming, hindering efficient training, especially in edge scenarios with limited compute and bandwidth. We propose Granular Computing (GC)-powered federated learning where granular balls are computed as a representative of clustered data, providing a more structured way to represent and process data for each client, leading to improved efficiency of machine learning models. The proposed framework reduces training data by 95.5\%, significantly accelerating simulation times (76–96\% reduction) and enabling low-latency, resource-efficient processing at the edge across simple (logistic regression) and complex (NN) models using FedAvg. Moreover, by sharing only granular characteristics, GC theoretically enhances privacy. Our results highlight GC’s effectiveness for resource-constrained edge environments and large-scale FL simulations at the edge, enabling faster experimentation with only a negligible 1–3\% accuracy trade-off, preserving comparable performance for real-time edge applications.
 
-
+**This paper is accepted in https://premi25.iitd.ac.in/**
 ## Authors
 
 - [@Shuvo Saha Roy](https://github.com/ShuvoSahaRoy/)
